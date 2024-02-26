@@ -1,5 +1,5 @@
-### RNStarter
-# Install with latest version. Create with react-native@latest and add boilerplate for ignite's Andross (Redux-Saga framework) from this project.
+# RNStarter
+## Install with latest version. Create with react-native@latest and add boilerplate for ignite's Andross (Redux-Saga framework) from this project.
 
 Like other projects that install both ios and android folders, then you have to do so much to change project name correctly and fix bits and pieces of it everywhere, this starter uses the approach of installing a fresh copy of react-native from official source and then adding the boilerplate in a simpler manner and installing libraries. 
 
