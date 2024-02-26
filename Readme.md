@@ -55,7 +55,7 @@ Install libraries required by the boilerplate
 
 ```
 yarn add @react-navigation/native@^6.x react-native-screens react-native-safe-area-context @react-navigation/native-stack @react-native-async-storage/async-storage react-native-gesture-handler react-native-paper react-redux redux redux-saga redux-persist seamless-immutable reduxsauce apisauce lodash moment
-```                                                                                                                       
+```
 
 =================================================================================================
 ### (Skip this if you followed above install all libraries step) Step by step with description 
